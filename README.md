@@ -76,6 +76,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - [yanjlee@163.com](mailto:your-email@example.com)
 
 Project Link: [https://github.com/yourusername/brainstorm-solution-manager](https://github.com/yourusername/brainstorm-solution-manager)
